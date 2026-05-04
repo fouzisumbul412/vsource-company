@@ -16,6 +16,9 @@ dist-ssr
 /assets/media/Brochure 16 pages _CTC.pdf
 /assets/images/students/IMG_7024 - Copy.MOV
 
+*.mp4
+*.zip
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
