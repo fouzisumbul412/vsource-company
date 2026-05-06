@@ -86,7 +86,7 @@ const ContactPage = () => {
           email: "Support@vsourceadmissions.com",
           hours: "10am to 8pm",
           locationUrl: "https://www.google.com/maps/place/VSource/@17.3692602,78.519197,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb98f7d166d455:0x1d4049b98242ba23!8m2!3d17.3692602!4d78.5213857",
-          imageUrl: "https://lh3.googleusercontent.com/p/AF1QipMKzDcJJiP9PWWv6TVLljm-1EWGx9fu1R6Fb0qW=w408-h272-k-no"
+          imageUrl: "/assets/images/branches/dilsukh.jpg"
         },
         {
           city: "Ameerpet",
@@ -95,8 +95,7 @@ const ContactPage = () => {
           email: "Support@vsourceadmissions.com",
           hours: "10am to 8pm",
           locationUrl: "https://www.google.com/maps/place/Vsource+Overseas+Consultants+Pvt+Ltd",
-          imageUrl: "https://lh3.googleusercontent.com/p/AF1QipOMh-oDSNTOEZF6eiY4ooUkyUCISycBKjzYiNYP=w426-h240-k-no"
-          
+          imageUrl: "/assets/images/branches/ammerpet.jpg"
         },
         {
           city: "KPHB - JNTU",
@@ -141,7 +140,7 @@ const ContactPage = () => {
           email: "Support@vsourceadmissions.com",
           hours: "10am to 8pm",
           locationUrl: "https://www.google.com/maps/place/Vsource+tirupathi",
-          imageUrl: "https://lh3.googleusercontent.com/p/AF1QipOMOt_FP4_B7iqfcNko_xoHWcoo4Lq-WUfl-3ZA=w408-h272-k-no"
+          imageUrl: "/assets/images/branches/Anantapu.jpg"
         },
         {
           city: "Bengaluru",

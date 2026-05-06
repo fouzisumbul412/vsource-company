@@ -141,466 +141,466 @@ const GalleryPage = () => {
   {
     id: 9,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs13.jpeg",
+    imageSrc: "/assets/images/gallery/1.jpg",
     is360: false
   },
   {
     id: 10,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs14.jpeg",
+    imageSrc: "/assets/images/gallery/2.jpg",
     is360: false
   },
   {
     id: 11,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs2.jpeg",
+    imageSrc: "/assets/images/gallery/3.jpg",
     is360: false
   },
   {
     id: 12,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs1.jpeg",
+    imageSrc: "/assets/images/gallery/4.jpg",
     is360: false
   },
   {
     id: 13,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs6.jpeg",
+    imageSrc: "/assets/images/gallery/5.jpg",
     is360: false
   },
   {
     id: 14,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs5.jpeg",
+    imageSrc: "/assets/images/gallery/6.jpg",
     is360: false
   },
   {
     id: 15,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs4.jpeg",
+    imageSrc: "/assets/images/gallery/7.jpg",
     is360: false
   },
   {
     id: 16,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs3.jpeg",
+    imageSrc: "/assets/images/gallery/8.jpg",
     is360: false
   },
   {
     id: 17,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs7.jpeg",
+    imageSrc: "/assets/images/gallery/9.jpg",
     is360: false
   },
   {
     id: 18,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs8.jpeg",
+    imageSrc: "/assets/images/gallery/10.jpg",
     is360: false
   },
   {
     id: 19,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs9.jpeg",
+    imageSrc: "/assets/images/gallery/11.jpg",
     is360: false
   },
   {
     id: 20,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs10.jpeg",
+    imageSrc: "/assets/images/gallery/12.jpg",
     is360: false
   },
   {
     id: 21,
     category: "photos",
-    imageSrc: "https://vsourceoverseas.com/assets/images/vs16.jpeg",
+    imageSrc: "/assets/images/gallery/13.jpg",
     is360: false
   },
 
     {
         id: 22,
         category: "photos",
-        imageSrc: "https://vsourceoverseas.com/assets/images/vs12.jpeg",
+        imageSrc: "/assets/images/gallery/14.jpg",
         is360: false,
     },
     {
         id: 23,
         category: "photos",
-        imageSrc: "https://vsourceoverseas.com/uploads/gallery/gallery2.jpg",
+        imageSrc: "/assets/images/gallery/15.jpg",
         is360: false,
     },
     {
         id: 24,
         category: "photos",
-        imageSrc: "https://vsourceoverseas.com/uploads/gallery/gallery1.jpg",
+        imageSrc: "/assets/images/gallery/16.jpg",
         is360: false,
     },
     {
         id: 25,
         category: "photos",
-        imageSrc: "https://vsourceoverseas.com/uploads/gallery/17.jpeg",
+        imageSrc: "/assets/images/gallery/17.jpg",
         is360: false,
     },
-    {
-        id: 26,
-        category: "photos",
-        imageSrc: "https://vsourceoverseas.com/uploads/gallery/19.jpeg",
-        is360: false,
-    },
-    {
-        id: 27,
-        category: "photos",
-        imageSrc: "https://vsourceoverseas.com/uploads/gallery/20.jpeg",
-        is360: false,
-    },
-    {
-        id: 28,
-        category: "photos",
-        imageSrc: "https://vsourceoverseas.com/uploads/gallery/16.jpeg",
-        is360: false,
-    },
-    {
-        id: 29,
-        category: "photos",
-        imageSrc: "https://vsourceoverseas.com/uploads/gallery/gallery10.jpg",
-        is360: false,
-    },
-    {
-        id: 30,
-        category: "photos",
-        imageSrc: "https://vsourceoverseas.com/uploads/gallery/14.jpeg",
-        is360: false,
-    },
-    {
-        id: 31,
-        category: "photos",
-        imageSrc: "https://vsourceoverseas.com/uploads/gallery/15.jpeg",
-        is360: false,
-    },
-    {
-        id: 32,
-        category: "photos",
-        imageSrc: "https://vsourceoverseas.com/uploads/gallery/1.jpeg",
-        is360: false,
-    },
-    {
-        id: 33,
-        category: "photos",
-        imageSrc: "https://vsourceoverseas.com/uploads/gallery/2.jpeg",
-        is360: false,
-    },
-    {
-        id: 34,
-        category: "photos",
-        imageSrc: "https://vsourceoverseas.com/uploads/gallery/12.jpeg",
-        is360: false,
-    },
-    {
-      "id": 35,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/13.jpeg",
-      "is360": false
-    },
-    {
-      "id": 36,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/gallery(17).jpg",
-      "is360": false
-    },
-    {
-      "id": 37,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/21.jpeg",
-      "is360": false
-    },
-    {
-      "id": 38,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/22.jpeg",
-      "is360": false
-    },
-    {
-      "id": 39,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/23.jpeg",
-      "is360": false
-    },
-    {
-      "id": 40,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/24.jpeg",
-      "is360": false
-    },
-    {
-      "id": 41,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/BFGD.jpg",
-      "is360": false
-    },
-    {
-      "id": 42,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/RETYU.jpg",
-      "is360": false
-    },
-    {
-      "id": 43,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/TRHB.jpeg",
-      "is360": false
-    },
-    {
-      "id": 44,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/UKIU.jpeg",
-      "is360": false
-    },
-    {
-      "id": 45,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/FHGC.jpg",
-      "is360": false
-    },
-    {
-      "id": 46,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/HDTSG.jpg",
-      "is360": false
-    },
-    {
-      "id": 47,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/EYTYBR.jpg",
-      "is360": false
-    },
-    {
-      "id": 48,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/TRYR.jpg",
-      "is360": false
-    },
-    {
-      "id": 49,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/AODDM.jpeg",
-      "is360": false
-    },
-    {
-      "id": 50,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/YJTY.jpeg",
-      "is360": false
-    },
-    {
-      "id": 51,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/221.jpeg",
-      "is360": false
-    },
-    {
-      "id": 52,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/1.jpeg",
-      "is360": false
-    },
-    {
-      "id": 53,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/KJFGNJS.jpeg",
-      "is360": false
-    },
-    {
-      "id": 54,
-      "category": "photos",
-      "imageSrc": "https://vsourceoverseas.com/uploads/gallery/LKMDGKODFNHD.jpeg",
-      "is360": false
-    },
-  {
-    id: 55,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/P,OERMGOPTMH.jpeg",
-    is360: false,
-  },
-  {
-    id: 56,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/RTRIHG.jpeg",
-    is360: false,
-  },
-  {
-    id: 57,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/kjhgff.jpeg",
-    is360: false,
-  },
-  {
-    id: 58,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/ihiug.jpeg",
-    is360: false,
-  },
-  {
-    id: 59,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/fdbzfdb.jpeg",
-    is360: false,
-  },
-  {
-    id: 60,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/sdzvdfv.jpeg",
-    is360: false,
-  },
-  {
-    id: 61,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/11111.jpeg",
-    is360: false,
-  },
-  {
-    id: 62,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/22222.jpeg",
-    is360: false,
-  },
-  {
-    id: 63,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/3333.jpeg",
-    is360: false,
-  },
-  {
-    id: 64,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/uk1.jpeg",
-    is360: false,
-  },
-  {
-    id: 65,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/uk2.jpeg",
-    is360: false,
-  },
-  {
-    id: 66,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/uk3.jpeg",
-    is360: false,
-  },
-  {
-    id: 67,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/uk4.jpeg",
-    is360: false,
-  },
-  {
-    id: 68,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/uk5.jpeg",
-    is360: false,
-  },
-  {
-    id: 69,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/uk6.jpeg",
-    is360: false,
-  },
-  {
-    id: 70,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/51.jpeg",
-    is360: false,
-  },
-  {
-    id: 71,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/84.jpeg",
-    is360: false,
-  },
-  {
-    id: 72,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/C1660T01.JPG",
-    is360: false,
-  },
-  {
-    id: 73,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/C1664T01.JPG",
-    is360: false,
-  },
-  {
-    id: 74,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/C1665T01.JPG",
-    is360: false,
-  },
-  {
-    id: 75,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/C1666T01.JPG",
-    is360: false,
-  },
-  {
-    id: 76,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/C1667T01.JPG",
-    is360: false,
-  },
-  {
-    id: 77,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9660T01.JPG",
-    is360: false,
-  },
-  {
-    id: 78,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9661T01.JPG",
-    is360: false,
-  },
-  {
-    id: 79,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9664T01.JPG",
-    is360: false,
-  },
-  {
-    id: 80,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9665T01.JPG",
-    is360: false,
-  },
-  {
-    id: 81,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9712T01.JPG",
-    is360: false,
-  },
-  {
-    id: 82,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9723T01.JPG",
-    is360: false,
-  },
-  {
-    id: 83,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9734T01.JPG",
-    is360: false,
-  },
-  {
-    id: 84,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9748T01.JPG",
-    is360: false,
-  },
-  {
-    id: 85,
-    category: "photos",
-    imageSrc: "https://vsourceoverseas.com/uploads/gallery/C1622T01.JPG",
-    is360: false,
-  }
+  //   {
+  //       id: 26,
+  //       category: "photos",
+  //       imageSrc: "https://vsourceoverseas.com/uploads/gallery/19.jpeg",
+  //       is360: false,
+  //   },
+  //   {
+  //       id: 27,
+  //       category: "photos",
+  //       imageSrc: "https://vsourceoverseas.com/uploads/gallery/20.jpeg",
+  //       is360: false,
+  //   },
+  //   {
+  //       id: 28,
+  //       category: "photos",
+  //       imageSrc: "https://vsourceoverseas.com/uploads/gallery/16.jpeg",
+  //       is360: false,
+  //   },
+  //   {
+  //       id: 29,
+  //       category: "photos",
+  //       imageSrc: "https://vsourceoverseas.com/uploads/gallery/gallery10.jpg",
+  //       is360: false,
+  //   },
+  //   {
+  //       id: 30,
+  //       category: "photos",
+  //       imageSrc: "https://vsourceoverseas.com/uploads/gallery/14.jpeg",
+  //       is360: false,
+  //   },
+  //   {
+  //       id: 31,
+  //       category: "photos",
+  //       imageSrc: "https://vsourceoverseas.com/uploads/gallery/15.jpeg",
+  //       is360: false,
+  //   },
+  //   {
+  //       id: 32,
+  //       category: "photos",
+  //       imageSrc: "https://vsourceoverseas.com/uploads/gallery/1.jpeg",
+  //       is360: false,
+  //   },
+  //   {
+  //       id: 33,
+  //       category: "photos",
+  //       imageSrc: "https://vsourceoverseas.com/uploads/gallery/2.jpeg",
+  //       is360: false,
+  //   },
+  //   {
+  //       id: 34,
+  //       category: "photos",
+  //       imageSrc: "https://vsourceoverseas.com/uploads/gallery/12.jpeg",
+  //       is360: false,
+  //   },
+  //   {
+  //     "id": 35,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/13.jpeg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 36,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/gallery(17).jpg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 37,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/21.jpeg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 38,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/22.jpeg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 39,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/23.jpeg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 40,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/24.jpeg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 41,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/BFGD.jpg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 42,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/RETYU.jpg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 43,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/TRHB.jpeg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 44,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/UKIU.jpeg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 45,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/FHGC.jpg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 46,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/HDTSG.jpg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 47,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/EYTYBR.jpg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 48,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/TRYR.jpg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 49,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/AODDM.jpeg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 50,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/YJTY.jpeg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 51,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/221.jpeg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 52,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/1.jpeg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 53,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/KJFGNJS.jpeg",
+  //     "is360": false
+  //   },
+  //   {
+  //     "id": 54,
+  //     "category": "photos",
+  //     "imageSrc": "https://vsourceoverseas.com/uploads/gallery/LKMDGKODFNHD.jpeg",
+  //     "is360": false
+  //   },
+  // {
+  //   id: 55,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/P,OERMGOPTMH.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 56,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/RTRIHG.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 57,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/kjhgff.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 58,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/ihiug.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 59,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/fdbzfdb.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 60,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/sdzvdfv.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 61,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/11111.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 62,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/22222.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 63,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/3333.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 64,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/uk1.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 65,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/uk2.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 66,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/uk3.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 67,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/uk4.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 68,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/uk5.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 69,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/uk6.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 70,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/51.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 71,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/84.jpeg",
+  //   is360: false,
+  // },
+  // {
+  //   id: 72,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/C1660T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 73,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/C1664T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 74,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/C1665T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 75,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/C1666T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 76,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/C1667T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 77,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9660T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 78,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9661T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 79,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9664T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 80,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9665T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 81,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9712T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 82,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9723T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 83,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9734T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 84,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/CK9748T01.JPG",
+  //   is360: false,
+  // },
+  // {
+  //   id: 85,
+  //   category: "photos",
+  //   imageSrc: "https://vsourceoverseas.com/uploads/gallery/C1622T01.JPG",
+  //   is360: false,
+  // }
 
 
 
@@ -697,7 +697,7 @@ const GalleryPage = () => {
                       <div className="relative h-64 overflow-hidden">
                         <img 
                           src={item.imageSrc} 
-                          alt={item.title || 'Gallery Photo'} 
+                          alt="Gallery Photo" 
                           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                         />
                       </div>
@@ -707,7 +707,7 @@ const GalleryPage = () => {
                       <div className="relative h-64 overflow-hidden">
                         <img 
                           src={item.imageSrc} 
-                          alt={item.title} 
+                          alt="Gallery Image" 
                           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                         />
                         {item.is360 && (

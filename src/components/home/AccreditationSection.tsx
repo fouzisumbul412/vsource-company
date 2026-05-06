@@ -1,9 +1,9 @@
 const Accreditation = () => {
   const accreditations = [
-    { name: "ICEF", logo: "https://icef-api-production.s3.eu-central-1.amazonaws.com/ias_material/0016M00002d5M0sQAE_badge.png" },
-    { name: "ETS", logo: "https://vsourceoverseas.com/assets/images/ets.jpeg" },
-    { name: "EAIE", logo: "https://vsourceoverseas.com/assets/images/images.png" },
-    { name: "NAFSA", logo: "https://vsourceoverseas.com/assets/images/nafsa.jpeg" }
+    { name: "ICEF", logo: "/assets/images/icef.png" },
+    { name: "ETS", logo: "/assets/images/ets.jpeg" },
+    { name: "EAIE", logo: "/assets/images/images.png" },
+    { name: "NAFSA", logo: "/assets/images/nafsa.jpeg" }
   ];
 
   return (
@@ -38,7 +38,7 @@ const Accreditation = () => {
       </div>
 
       {/* Custom animation */}
-      <style jsx>{`
+      <style>{`
         @keyframes marquee {
           0% { transform: translateX(0); }
           100% { transform: translateX(-50%); }
