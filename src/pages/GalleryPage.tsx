@@ -635,7 +635,7 @@ const GalleryPage = () => {
           {/* Tabs */}
           <div className="flex justify-center mb-12">
             <div className="inline-flex bg-gray-100 rounded-lg p-1">
-              {["all", "offices", "photos", "students"].map(tab => (
+              {["all",  "photos", "students"].map(tab => (
                 <button
                   key={tab}
                   onClick={() => setActiveTab(tab)}
@@ -645,9 +645,7 @@ const GalleryPage = () => {
                       : "text-gray-600 hover:text-gray-900"
                   }`}
                 >
-                  {tab === "offices"
-                    ? "360° Tours"
-                    : tab === "students"
+                  { tab === "students"
                     ? "Student Success"
                     : tab.charAt(0).toUpperCase() + tab.slice(1)}
                 </button>
@@ -656,7 +654,7 @@ const GalleryPage = () => {
           </div>
 
           {/* 360° Tour - ONLY in "All" or "Offices" tab */}
-          {showVirtualTour && (
+          {/* {showVirtualTour && (
             <section className="mb-16">
               <SectionTitle 
                 title="Virtual Office Tours"
@@ -678,13 +676,13 @@ const GalleryPage = () => {
                 </div>
               </AnimateOnScroll>
             </section>
-          )}
+          )} */}
 
          {/* Student Success Section */}
 {(activeTab === "students" || activeTab === "all") && (
 <Successstories/>
 )}
-
+ 
 
 
           {/* Regular Gallery Grid */}

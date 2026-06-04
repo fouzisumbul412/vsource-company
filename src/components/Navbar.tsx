@@ -24,8 +24,10 @@ const Navbar = () => {
   const navLinks = [
     { name: 'Home', path: '/' },
     { name: 'About Us', path: '/about-us' },
+     {name:'360 View', path: '/view-360'},
     { name: 'Gallery', path: '/gallery' },
     // { name: 'Join Us', path: '/join-us' },
+   
     { name: 'Branches', path: '/contact' }
   ];
 

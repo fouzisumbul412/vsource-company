@@ -17,6 +17,7 @@ import ScrollToTopButton from "./components/ScrollToTopButton";
 import ContactBar from "./components/ContactBar";
 import { useEffect, useRef } from "react";
 import FaqSection from "./components/home/FaqSection";
+import View360 from "./pages/view360";
 const queryClient = new QueryClient();
 
 const App = () => {
@@ -37,6 +38,7 @@ const App = () => {
                 <Route path="/gallery" element={<GalleryPage />} />
                 <Route path="/join-us" element={<JoinUsPage />} />
                 <Route path="/contact" element={<ContactPage />} />
+                <Route path="/view-360" element={<View360 />} />
                 <Route path="*" element={<NotFound />} />
               </Routes>
             </main>
