@@ -47,8 +47,8 @@ const Navbar = () => {
             />
             <img
               alt="20 Years Logo"
-              className="h-11 md:h-16 ml-3 w-auto object-contain drop-shadow-md"
-              src="https://vsourcevarsity.com/assets/images/20%20YEARS%20LOGO%20n-01.png"
+              className="h-16 md:h-18 ml-3 w-auto object-contain drop-shadow-md"
+              src="/assets/images/vsource-21YearsLogo.png"
             />
           </div>
         </Link>

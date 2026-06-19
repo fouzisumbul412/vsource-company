@@ -117,13 +117,13 @@ const Hero = () => {
 
             <div className="flex justify-start">
               <img
-                src="/assets/images/20 years logo.png"
-                alt="20 Years Logo"
-                className="w-36 h-auto"
+                src="/assets/images/vsource-21YearsLogo.png"
+                alt="21 Years Logo"
+                className="w-44 h-auto"
               />
             </div>
 
-            <div className="pt-6 pb-20">
+            <div className="pt-1 pb-20">
               <p className="text-sm text-gray-400 mb-2">
                 Trusted by students across the globe
               </p>
