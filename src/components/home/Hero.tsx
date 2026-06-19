@@ -117,9 +117,9 @@ const Hero = () => {
 
             <div className="flex justify-start">
               <img
-                src="/assets/images/vsource-21YearsLogo.png"
+                src="/assets/images/21YEARSLOGO.png"
                 alt="21 Years Logo"
-                className="w-44 h-auto"
+                className="w-32 h-auto"
               />
             </div>
 
