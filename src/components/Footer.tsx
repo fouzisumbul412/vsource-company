@@ -11,7 +11,7 @@ const Footer = () => {
               <img src="/lovable-uploads/b5b42637-3407-4f15-bba6-e67d8998c48a.png" alt="Vsource Logo" className="h-12 w-auto object-contain" />
             </Link> */}
           <p className="text-gray-400 mb-4">
-            Your trusted educational consultancy with 20+ years of experience in
+            Your trusted educational consultancy with 21+ years of experience in
             university admissions, overseas education, work visas and educational loans.
           </p>
           <div className="flex space-x-6">

@@ -110,7 +110,7 @@ const Hero = () => {
             </h1>
 
             <p className="text-lg lg:text-xl text-gray-300 max-w-xl">
-              Your trusted educational consultancy with 20+ years of experience
+              Your trusted educational consultancy with 21+ years of experience
               in guiding students towards successful academic and professional
               futures.
             </p>

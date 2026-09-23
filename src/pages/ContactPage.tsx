@@ -88,15 +88,15 @@ const ContactPage = () => {
           locationUrl: "https://www.google.com/maps/place/VSource/@17.3692602,78.519197,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb98f7d166d455:0x1d4049b98242ba23!8m2!3d17.3692602!4d78.5213857",
           imageUrl: "/assets/images/branches/dilsukh.jpg"
         },
-        {
-          city: "Ameerpet",
-          address: "Vsource Building, Kamma Sangam lane, Ameerpet, Hyderabad- 500073, Telangana.",
-          phone: "+91 99126 11119",
-          email: "Support@vsourceadmissions.com",
-          hours: "10am to 8pm",
-          locationUrl: "https://www.google.com/maps/place/Vsource+Overseas+Consultants+Pvt+Ltd",
-          imageUrl: "/assets/images/branches/ammerpet.jpg"
-        },
+        // {
+        //   city: "Ameerpet",
+        //   address: "Vsource Building, Kamma Sangam lane, Ameerpet, Hyderabad- 500073, Telangana.",
+        //   phone: "+91 99126 11119",
+        //   email: "Support@vsourceadmissions.com",
+        //   hours: "10am to 8pm",
+        //   locationUrl: "https://www.google.com/maps/place/Vsource+Overseas+Consultants+Pvt+Ltd",
+        //   imageUrl: "/assets/images/branches/ammerpet.jpg"
+        // },
         {
           city: "KPHB - JNTU",
           address: "Beside JNTU Metro station Near ICICI Bank, Hyderabad, Telangana.",
