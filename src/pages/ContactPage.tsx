@@ -84,7 +84,7 @@ const ContactPage = () => {
           address: "Vsource, Near Shashi Hospital, Metro pillar no-1519, Dilsukhnagar, Hyderabad- 500060, Telangana.",
           phone: "+91 99126 11119",
           email: "Support@vsourceadmissions.com",
-          hours: "10am to 8pm",
+          hours: "11:00 AM to 07:30 PM",
           locationUrl: "https://www.google.com/maps/place/VSource/@17.3692602,78.519197,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb98f7d166d455:0x1d4049b98242ba23!8m2!3d17.3692602!4d78.5213857",
           imageUrl: "/assets/images/branches/dilsukh.jpg"
         },
@@ -102,7 +102,7 @@ const ContactPage = () => {
           address: "Beside JNTU Metro station Near ICICI Bank, Hyderabad, Telangana.",
           phone: "+91 99126 11119",
           email: "Support@vsourceadmissions.com",
-          hours: "10am to 8pm",
+          hours: "11:00 AM to 07:30 PM",
           locationUrl: "https://www.google.com/maps/place/Vsource+Overseas+Consultants+Pvt+Ltd",
           imageUrl: "/assets/images/branches/jntu branch.jpg"
         },
@@ -111,7 +111,7 @@ const ContactPage = () => {
           address: "1st floor, Mouli Towers, Beside Reliance Trends, Benz Circle, Vijayawada, AP.",
           phone: "+91 99126 11119",
           email: "Support@vsourceadmissions.com",
-          hours: "10am to 8pm",
+          hours: "11:00 AM to 07:30 PM",
           locationUrl: "https://www.google.com/maps/place/VSource+Educational+Consultants+Pvt+Ltd",
           imageUrl: "/assets/images/branches/vijaywada branch.jpeg"
         },
@@ -147,7 +147,7 @@ const ContactPage = () => {
           address: "#88, 9th cross G-Block, Sahakar Nagar, Bengaluru-560092, Karnataka.",
           phone: "+91 99126 11119",
           email: "Support@vsourceadmissions.com",
-          hours: "10am to 8pm",
+          hours: "11:00 AM to 07:30 PM",
           locationUrl: "https://www.google.com/maps/place/VSOURCE+BENGALURU",
           imageUrl: "/assets/images/branches/bangalore branch.jpeg"
         }
